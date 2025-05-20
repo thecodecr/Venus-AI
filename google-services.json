@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318586427804",
+    "project_id": "venus-ai-1b41a",
+    "storage_bucket": "venus-ai-1b41a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318586427804:android:5a14ee0cfb933ed9a3d059",
+        "android_client_info": {
+          "package_name": "com.example.venusai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318586427804-327q7i0oghseqk1l8o2egmlj67ajtouh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX-onbLgUJtBeNjUQZaHuyPPk78baa1Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318586427804-327q7i0oghseqk1l8o2egmlj67ajtouh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
